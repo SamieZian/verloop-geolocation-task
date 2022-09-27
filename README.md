@@ -12,3 +12,6 @@ Problem statement: You have to create an API endpoint, which returns data relate
 
 ### Run the application
 `python verloop_geo_api.py`
+
+
+![screenshot](geo_coding_api_json.png)
