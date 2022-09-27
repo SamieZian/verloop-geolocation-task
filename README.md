@@ -14,4 +14,6 @@ Problem statement: You have to create an API endpoint, which returns data relate
 `python verloop_geo_api.py`
 
 
-![screenshot](geo_coding_api_json.png)
+
+![geo_coding_api_json](https://user-images.githubusercontent.com/76624147/192455132-d4296e95-08b4-46b2-86da-8065bd78e83e.png)
+![geo_coding_api_xml](https://user-images.githubusercontent.com/76624147/192455152-c766ace2-00d0-4faf-9d93-76659cd5a961.png)
