@@ -4,5 +4,11 @@ Problem statement: You have to create an API endpoint, which returns data relate
 # Git Clone
 `git clone https://github.com/SamieZian/verloop-geolocation-task.git`
 
-### Go to verloop_geo_api.py file & change `api_key` with your valid google geocoding API key ( Refer line No : 10 )
+### Go to verloop_geo_api.py file & change `api_key` with your valid google geocoding API key ( Refer line No : 10)
 `api_key = 'put-your-api-key'` --> `api_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'`
+
+### Go to terminal ( Install all dependencies )
+`pip install -r requirements.txt`
+
+### Run the application
+`python verloop_geo_api.py`
